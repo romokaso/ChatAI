@@ -34,7 +34,8 @@ import {
   TrendingUp,
   Bot,
   Zap,
-  Sparkles
+  Sparkles,
+  MessageCircle
 } from 'lucide-react';
 
 const HomePage = () => {
